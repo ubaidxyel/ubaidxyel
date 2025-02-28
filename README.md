@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ubaid-ur-Rehman</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate and dedicated Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaidxyel&label=Profile%20views&color=0e75b6&style=flat" alt="ubaidxyel" /> </p>
 
@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **Frameworks, courses etc**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/ub4iddd853/sites](https://app.netlify.com/teams/ub4iddd853/sites)
-
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **rehmanubaid853@gmail.com**
 
